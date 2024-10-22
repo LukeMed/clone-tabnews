@@ -1,8 +1,6 @@
 function Home(){
     
-    return <><><h1>Fala, Lucas! Vamos retomar as aulas?</h1>
-        <h2>Continuo na batalha. Vamos usar mais comandos. Não deleta, GitHub. Precisa treinar mais.</h2></>
-        <h3>Mais uma frase. Treinando na aula. Uma pequena alteração.</h3></>
+    return <h1>Fala, Levi! Acabei de integrar o GitHub com a Vercel para poder hospedar meus projetos.</h1>
 }
 
 export default Home;
