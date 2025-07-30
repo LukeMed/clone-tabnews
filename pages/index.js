@@ -1,10 +1,9 @@
 function Home() {
-  return (
-    <h1>
-      Vamos aprender desenvolver páginas Web? Isso será útil para a Transplam.
-      Dia 24/07/2025
-    </h1>
-  );
+  return;
+  <h1>
+    Vamos aprender desenvolver páginas Web? Isso será útil para a Transplam. Dia
+    30/07/2025
+  </h1>;
 }
 
 function teste() {
@@ -12,7 +11,7 @@ function teste() {
 }
 
 function teste2() {
-  console.log("identação errada");
+  console.log("indentação errada");
 }
 
 export default Home;
