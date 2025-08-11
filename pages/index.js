@@ -1,8 +1,5 @@
 function Home() {
-  return;
-  <h1>
-    Tentando aprender desenvolver páginas Web usando a Vercel? Dia 08/08/2025.
-  </h1>;
+  return <h1>Mais um teste. Esse é do dia 11/08/2025</h1>;
 }
 
 export default Home;
