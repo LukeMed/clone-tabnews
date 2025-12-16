@@ -1,7 +1,7 @@
 function Home() {
   return (
     <h1>
-      Mais um teste. Esse é do dia 13/12/2025. Vamos voltar a estudar pra não
+      Mais um teste. Esse é do dia 15/12/2025. Vamos voltar a estudar pra não
       esquecer?
     </h1>
   );
