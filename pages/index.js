@@ -1,8 +1,7 @@
 function Home() {
   return (
     <h1>
-      Mais um teste. Esse é do dia 28/12/2025. Vamos voltar a estudar pra não
-      esquecer? Vamos fechar o ano atualizando o projeto!
+      Só pra mexer no projeto. Data 18/01/2026
     </h1>
   );
 }
