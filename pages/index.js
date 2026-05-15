@@ -1,5 +1,5 @@
 function Home() {
-  return <h1>Retomada - Atualização de 06/05/2026.</h1>;
+  return <h1>Atualização de 15/05/2026.</h1>;
 }
 
 export default Home;
