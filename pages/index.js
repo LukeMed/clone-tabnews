@@ -1,5 +1,9 @@
 function Home() {
-  return <h1>I'm back today. Today is 04/08/2026.</h1>;
+  return (
+    <h1>
+      I'm back today. Today is 17/08/2026. I need to go back to watch lessons.
+    </h1>
+  );
 }
 
 export default Home;
